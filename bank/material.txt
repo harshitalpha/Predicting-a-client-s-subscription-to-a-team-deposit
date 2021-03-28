@@ -1,0 +1,3 @@
+references :
+- https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
+- https://core.ac.uk/download/pdf/55616194.pdf
